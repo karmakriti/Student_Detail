@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Switch from '@mui/material/Switch';
-import StudentCard from './StudentCard';
+import StudentCard from './StudentCard.js';
 import './App.css';
 
 const students = [
